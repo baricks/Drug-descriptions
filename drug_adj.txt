@@ -1,0 +1,53 @@
+analgesic
+painkiller
+anaesthetic
+antihistamine
+anticonvulsant
+antiepileptic
+antidepressant
+antimigraine
+antipsychotic
+benzodiazepine
+antiparkinsonian
+immunosuppressive
+antianaemia
+anticoagulant
+blood thinner
+antiarrhythmic
+antithrombotic
+antifungal
+anti-infective
+anti-inflammatory
+disinfectant
+antiseptic
+antiemetic
+diuretic
+opiod painkiller
+antiulcer
+laxative
+sedative
+hormone
+estrogen
+androgen
+contraceptive
+ovulation inducer
+thyroid stimulant
+antithyroid
+insulin
+vaccine
+oxytocin
+SSRI
+anxiolytic
+antipanic agent
+tricyclic
+MAOI
+SNRI
+antiandrogen
+psychedelic
+vitamin
+probiotic
+antibiotic
+antiviral drug
+stimulant
+depressant
+aphrodisiac
